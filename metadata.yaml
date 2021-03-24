@@ -1,0 +1,44 @@
+_repo: Seeking-His-Fortune-and-Other-Dialogues_64607
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Alger, Horatio
+    - Preston, Charles F.
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: https://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+  - agent_name: Cheney, O. Augusta (Olive Augusta)
+    alias: Cheney, Olive Augusta
+    birthdate: 1833
+    gutenberg_agent_id: '52980'
+    url: http://www.gutenberg.org/2009/agents/52980
+description: ''
+gutenberg_issued: '2021-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64607'
+  lccn: '13024622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Dialogues, American'
+- !lcsh 'Young adult drama, American'
+- GITenberg
+tableOfContents: Seeking his fortune -- One week an editor -- Keeping genteel boarders
+  -- Mrs. Skinflint's bargains -- Mrs. Grundy's tyranny -- Aunt Hannah's valentine
+  -- Mr. Bliss' vision -- High life below stairs -- Boarding on a farm -- Taming a
+  wife -- John Smith's trials -- Aunt Rachel's fright -- The hypochondriac cured --
+  Aunt Patience's ear-trumpet -- The ghostly visitation -- Practical husbandry --
+  Mr. Smith's day at home -- The country cousin -- Taking poison -- Deacon Robinson's
+  present -- Mrs. Marden's lesson -- The magic mirror.
+title: Seeking His Fortune, and Other Dialogues
+url: http://www.gutenberg.org/ebooks/64607
